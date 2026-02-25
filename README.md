@@ -45,7 +45,7 @@ The project is ideal for managing and sharing images quickly without the need fo
 This project is open-source and free to use for personal and educational purposes.
 
 ---
-[#denjagidev](nf-d.netlify.app)
+**[#denjagidev](nf-d.netlify.app)**
 <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ACAF50&center=true&vCenter=true&multiline=false&lines=Built+Different" alt="pantane">
 </p>
