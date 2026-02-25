@@ -1,6 +1,6 @@
 # U-Pic
 
-**[Live Demo:](https://u-pic.gt.tc/)**
+**[Live Demo](https://u-pic.gt.tc/)**
 
 ## Overview
 
@@ -24,7 +24,7 @@ The project is ideal for managing and sharing images quickly without the need fo
 
 ## How to Use
 
-1. Open the live link: [https://u-pic.gt.tc/](https://u-pic.gt.tc/)
+1. Open the [live link](https://u-pic.gt.tc/)
 2. Use the upload button to select images from your computer.
 3. Uploaded images will appear in the gallery section.
 4. Click the “Download” button below any image to save it locally.
@@ -49,4 +49,3 @@ This project is open-source and free to use for personal and educational purpose
 <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ACAF50&center=true&vCenter=true&multiline=false&lines=Built+Different" alt="pantane">
 </p>
----
